@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="icon" type="favicon" href="images/cv.svg">
+	<link rel="stylesheet" type="text/css" href="css/resume.css">
+	<title>:: RESUME ::</title>
+</head>
+<body>
+	<div class="resume">
+		<div class="profile">
+			<div><img src="images/profile.jpg" id="image"></div><br>
+			<b><div style="font-size: 25px;">raghu atluri</div><br>
+			<div style="font-size: 20px;">B.Tech Student</div><br>
+			<div style="font-size: 20px;">SRM University, Amaravati</div></b><br>
+			<hr>
+			<div><a href="mailto: raghu726atluri@gmail.com"><img src="images/gmail.svg" class="contact"></a>
+			<a href="tel: +919490686531"><img src="images/phone.svg" class="contact"></a>
+			<a href="https://www.facebook.com/raghu.atluri.9" target="_blank"><img src="images/facebook.svg" class="contact"></a>
+			<a href="https://github.com/RaghuAtluri/SRM-Internship307" target="_blank"><img src="images/github-image.svg" class="contact"></a></div>
+		</div>
+		<div id="details">
+			<div id="edu">
+				<div class="heading"><b>EDUCATION</b></div><hr> 
+				<div id="study">
+					<b><div class="studies"><br><br>
+					B.Tech (06/2018 – 04/2022)<br><br>
+					SRM University, Amaravati<br><br>
+					<i>CGPA: 8.0 (till present)</i></div></b><hr>
+					<b><div class="studies"><br><br>
+					Intermediate (06/2016 – 04/2018)<br><br>
+					vignan, Guntur<br><br>
+					<i>Percentage/Marks: 90%</i></div></b><hr>
+					<b><div class="studies"><br><br>
+					cbse (till 04/2016)<br><br>
+					vignan high School</br><br>
+					<i>Percentage/Marks: 84%</i></div></b>
+				</div><br><br>
+				<b><div class="heading">SKILLS</div><hr>
+				<div class="items">C Programming, C++ Programming, Object-Oriented Programming, Python Programming, HTML, CSS, JavaScript, Bootstrap, Octave.</div></b><br><br>
+
+				<b><div class="heading">PROJECTS</div><hr>
+				<ul type="disc" class="items">
+					<li><div>Switching electronics using an app (03/2019 – 03/2019).</div></li>
+					<li><div>Development of Pong game using Object-oriented programming(April-May 2020).</div></li>
+				</ul></b><br><br>
+
+				<b><div class="heading">CERTIFICATIONS</div><hr>
+				<ul type="disc" class="items">
+					<li><div>Linear Regression with NumPy and Python.</div></li>
+					<li><div>Predictive Modelling with Azure Machine Learning Studio.</div></li>
+					<li><div>Visual Machine Learning with Yellowbrick.</div></li>
+				</ul></b><br>
+				<b><div class="heading">HOBBIES</div><hr>
+				<div style="font-size: 20px;text-align: center;">Playing cricket and volleyball</div></b>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
